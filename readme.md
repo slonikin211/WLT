@@ -2,7 +2,8 @@
 Web template layout for developing landings and simple sites on WP platform
 
 
-# Techs:
+# Tech stack:
+- HTML5, CSS3, JS
 - Bootstrap 5
 - JQuery 3.6.0
 - WordPress
