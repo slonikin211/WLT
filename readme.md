@@ -19,6 +19,9 @@ Web template layout for developing landings and simple sites on WP platform
 git clone https://github.com/slonikin211/WLT
 ```
 2. Sign in/up [FontAwesome](https://fontawesome.com/) and set your id in template-parts/head.php and index.html
+```html
+<script src="https://kit.fontawesome.com/<your_font_awesome_id>.js" crossorigin="anonymous"></script>
+```
 
 
 # Additional links
