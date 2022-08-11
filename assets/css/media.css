@@ -1,0 +1,45 @@
+/* 
+	TODO: minify on prod using https://www.toptal.com/developers/cssminifier
+*/
+
+/* ------ Media Queries ------ */
+
+/* 1200+ */
+@media screen and (min-width: 1200px) {
+	
+}
+
+/* 992-1200px */
+@media screen and (max-width: 1200px) {
+
+}
+
+/* 768-992px */
+@media screen and (max-width: 992px) {
+	
+}
+
+/* 576-768px */
+@media screen and (max-width: 768px) {
+	
+}
+
+/* 320-576px */
+@media screen and (max-width: 576px) {
+	
+}
+
+/* 400-480px */
+@media screen and (max-width: 480px){
+	
+}
+
+/* 320-400px */
+@media screen and (max-width: 400px){
+	
+}
+
+/* 0-320px */
+@media screen and (max-width: 320px){
+	
+}
